@@ -29,7 +29,7 @@ python3 datatub3.py -u http://192.168.137.129 –post-b64 poc.txt
 
 ![Command](https://i.imgur.com/Eoe2Kol.png)
 
-![Packet](https://https://i.imgur.com/IR69st8.png)
+![Packet](https://i.imgur.com/IR69st8.png)
 
 # Requirements
 - Python 3
